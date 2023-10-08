@@ -18,7 +18,7 @@ The AngelClub website is a platform dedicated to Japanese culture enthusiasts. T
 You can view the AngelClub website by following these steps:
 
 1. Clone the repository:
-  >git clone https://github.com/your-username/angelclub-website.git
+  >git clone this repo
   >cd angelclub-website
 
 2. Open the `index.html` file in your web browser to explore the website.
