@@ -1,6 +1,6 @@
 # AngelClub Website
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](./redm.png)
 
 The AngelClub website is a platform dedicated to Japanese culture enthusiasts. This website is built using HTML and CSS to provide information, resources, and updates about the AngelClub—a club that celebrates all aspects of Japanese culture.
 
